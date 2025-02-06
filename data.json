@@ -1,0 +1,148 @@
+{
+  "game": [
+    {
+      "id": 1,
+      "name": "The Witcher 3",
+      "text": "An open-world RPG set in a medieval fantasy world, known for its story-driven gameplay.",
+      "image": "https://wallpapers.com/images/featured/the-witcher-3-wild-hunt-fmctiy6vyhh9jih5.jpg",
+      "price": 49.99,
+      "rate": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Minecraft",
+      "text": "A sandbox game where players build and explore virtual worlds made of blocks.",
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Vanilla-PMP_Collection-Carousel-0_Update-Aquatic_1280x768.jpg",
+      "price": 26.95,
+      "rate": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Grand Theft Auto V",
+      "text": "An action-adventure game with open-world gameplay, focusing on crime and heists.",
+      "image": "https://www.godisageek.com/wp-content/uploads/GTA-V-Background1.jpg",
+      "price": 39.99,
+      "rate": 4.9
+    },
+    {
+      "id": 4,
+      "name": "Fortnite",
+      "text": "A battle royale game where 100 players fight to be the last one standing.",
+      "image": "https://cdn2.unrealengine.com/social-image-chapter4-s3-3840x2160-d35912cc25ad.jpg",
+      "price": "Free",
+      "rate": 4.5
+    },
+    {
+      "id": 5,
+      "name": "Call of Duty: Warzone",
+      "text": "A free-to-play battle royale game from the Call of Duty franchise.",
+      "image": "https://www.createpcs.co.uk/wp-content/uploads/2021/07/call-of-duty-warzone.jpg",
+      "price": "Free",
+      "rate": 4.6
+    },
+    {
+      "id": 6,
+      "name": "League of Legends",
+      "text": "A multiplayer online battle arena (MOBA) game, known for its strategic depth and team play.",
+      "image": "https://www.strafe.com/_next/image/?url=https%3A%2F%2Fwww.strafe.com%2Fesports-betting%2Fstrafe-news%2Fwp-content%2Fuploads%2Fsites%2F29%2FSaint-League-of-Legends.jpeg&w=3840&q=75",
+      "price": "Free",
+      "rate": 4.4
+    },
+    {
+      "id": 7,
+      "name": "Among Us",
+      "text": "A multiplayer social deduction game where players work together to find the imposter.",
+      "image": "https://muse.world/wp-content/uploads/2024/02/NYXG-Among-Us-VR-Schell-Games-Innersloth-Robot-Teddy-1.jpg",
+      "price": 5,
+      "rate": 4.3
+    },
+    {
+      "id": 8,
+      "name": "Apex Legends",
+      "text": "A free-to-play battle royale game known for its fast-paced gameplay and unique character abilities.",
+      "image": "https://gaming-cdn.com/images/news/articles/9130/cover/apex-legends-season-23-brings-us-the-great-return-of-the-original-map-with-classic-weapons-and-abilities-cover672a4833f1b62.jpg",
+      "price": "Free",
+      "rate": 4.7
+    },
+    {
+      "id": 9,
+      "name": "Valorant",
+      "text": "A tactical first-person shooter that blends precise gunplay with unique agent abilities.",
+      "image": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S1_2560x1440-1dade6e50659c8e05805cb150b349e56",
+      "price": "Free",
+      "rate": 4.8
+    },
+    {
+      "id": 10,
+      "name": "Red Dead Redemption 2",
+      "text": "An open-world action-adventure game set in the American Wild West, known for its storytelling.",
+      "image": "https://cdn-ext.fanatical.com/production/product/1280x720/27410333-afab-4fb3-b326-e5f3118313ca.jpeg",
+      "price": 5.09,
+      "rate": 4.9
+    },
+    {
+      "id": 11,
+      "name": "Cyberpunk 2077",
+      "text": "An open-world RPG set in a dystopian future, featuring a vast, immersive world.",
+      "image": "https://fossbytes.com/wp-content/uploads/2021/01/7-Best-Cyberpunk-2077-Cars-You-Must-Get-Top-Cyberpunk-2077-Vehicles.jpg",
+      "price": 59.99,
+      "rate": 4.1
+    },
+    {
+      "id": 12,
+      "name": "Pokemon Sword & Shield",
+      "text": "A role-playing game where players catch and battle creatures called Pokémon in a new region.",
+      "image": "https://i.ytimg.com/vi/4h78dXoUM3c/maxresdefault.jpg",
+      "price": 29.24,
+      "rate": 4.5
+    },
+    {
+      "id": 13,
+      "name": "Super Mario Odyssey",
+      "text": "A 3D platformer where Mario travels across different kingdoms to save Princess Peach.",
+      "image": "https://finalboss.io/_next/image?url=https%3A%2F%2Fbackend.finalboss.io%2Fwp-content%2Fuploads%2F2024%2F04%2Fsuper-mario-odyssey-2.webp&w=3840&q=75",
+      "price": 12.39,
+      "rate": 4.8
+    },
+    {
+      "id": 14,
+      "name": "Sekiro: Shadows Die Twice",
+      "text": "An action-adventure game set in a re-imagined Japan, featuring intense swordplay and stealth.",
+      "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/814380/capsule_616x353.jpg?t=1726158438",
+      "price": 23.39,
+      "rate": 4.7
+    },
+    {
+      "id": 15,
+      "name": "Fall Guys",
+      "text": "A battle royale-style party game where players compete in obstacle courses.",
+      "image": "https://cdn2.unrealengine.com/egs-fallguys-mediatonic-g1a-00-1920x1080-75b891d04ff9.jpg",
+      "price": "Free",
+      "rate": 4.2
+    },
+    {
+      "id": 16,
+      "name": "The Elder Scrolls V: Skyrim",
+      "text": "An open-world RPG set in the fantasy world of Tamriel, with dragons and deep exploration.",
+      "image": "https://gaming-cdn.com/images/products/146/orig/the-elder-scrolls-v-skyrim-pc-game-steam-europe-cover.jpg?v=1719414268",
+      "price": 6.69,
+      "rate": 4.9
+    },
+    {
+      "id": 17,
+      "name": "Horizon Zero Dawn",
+      "text": "An action RPG where players explore a post-apocalyptic world filled with robotic creatures.",
+      "image": "https://www.godisageek.com/wp-content/uploads/Horizon-Zero-Dawn-review.jpg",
+      "price": 3.99,
+      "rate": 4.7
+    },
+    {
+      "id": 18,
+      "name": "Animal Crossing: New Horizons",
+      "text": "A life simulation game where players live on an island and interact with anthropomorphic animals.",
+      "image": "https://assets.nintendo.com/image/upload/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000027619/9989957eae3a6b545194c42fec2071675c34aadacd65e6b33fdfe7b3b6a86c3a",
+      "price": 9.39,
+      "rate": 4.6
+    }
+  ]
+}
