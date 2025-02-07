@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Minecraft",
       "text": "A sandbox game where players build and explore virtual worlds made of blocks.",
-      "image": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Vanilla-PMP_Collection-Carousel-0_Update-Aquatic_1280x768.jpg",
+      "image": "https://i.ytimg.com/vi/Rla3FUlxJdE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCy4fYguJEfkQ6btlvDQjyWGrojSw",
       "price": 26.95,
       "rate": 4.7
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Fortnite",
       "text": "A battle royale game where 100 players fight to be the last one standing.",
-      "image": "https://cdn2.unrealengine.com/social-image-chapter4-s3-3840x2160-d35912cc25ad.jpg",
+      "image": "https://ineqe.com/wp-content/uploads/2021/09/Fortnite1.jpeg",
       "price": "Free",
       "rate": 4.5
     },
@@ -68,7 +68,7 @@
       "id": 9,
       "name": "Valorant",
       "text": "A tactical first-person shooter that blends precise gunplay with unique agent abilities.",
-      "image": "https://cdn1.epicgames.com/offer/cbd5b3d310a54b12bf3fe8c41994174f/EGS_VALORANT_RiotGames_S1_2560x1440-1dade6e50659c8e05805cb150b349e56",
+      "image": "https://www.esports.net/wp-content/uploads/2024/09/valorant-agents-release-order-ft.jpg",
       "price": "Free",
       "rate": 4.8
     },
@@ -116,7 +116,7 @@
       "id": 15,
       "name": "Fall Guys",
       "text": "A battle royale-style party game where players compete in obstacle courses.",
-      "image": "https://cdn2.unrealengine.com/egs-fallguys-mediatonic-g1a-00-1920x1080-75b891d04ff9.jpg",
+      "image": "https://xxboxnews.blob.core.windows.net/prod/sites/2/2021/02/Fall-Guys-Key-Art_Thumb_JPG.jpg",
       "price": "Free",
       "rate": 4.2
     },
